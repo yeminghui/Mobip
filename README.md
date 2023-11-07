@@ -1,3 +1,3 @@
 # Mobip
 
-The official implementation of Mobip is about to open source. We are cleaning the code.
+The official implementation of Mobip will be open-sourced very soon.
