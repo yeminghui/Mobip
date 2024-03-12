@@ -22,7 +22,7 @@ pip install -r requirements.txt
 ```
 
 ### Data preparation
-Please follow the instructions in this [link](https://github.com/hustvl/YOLOP?tab=readme-ov-file#data-preparation) to download the dataset. Also, overwrite your path to the dataset on the DATASET related params in `./lib/config/default.py`
+Please follow the instructions in this [link](https://github.com/hustvl/YOLOP?tab=readme-ov-file#data-preparation) to download the BDD100K dataset. Also, overwrite your path to the dataset on the DATASET related params in `./lib/config/default.py`
 
 
 ### Quickstart
